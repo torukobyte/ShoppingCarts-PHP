@@ -1,0 +1,21 @@
+img{
+  max-width: 100%;
+  height: auto;
+  background: #add8e6 radial-gradient(#ffffff 30%, #b3d2ff 70%);
+}
+
+.fa-star,.fa-star-half{
+  color: #ff7b00;
+  padding: 3% 0;
+}
+
+#cart_count{
+  text-align: center;
+  padding: 0 0.9rem 0.1rem 0.9rem;
+  border-radius: 3rem;
+}
+
+.shopping-cart{
+  padding: 3% 0;
+}
+
